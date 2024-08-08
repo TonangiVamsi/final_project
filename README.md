@@ -27,7 +27,7 @@ Fire Detection is a system developed for detecting and monitoring forest fires u
 ## INSTALLATION 
 1. Clone the repository:
 ```
-git clone https://github.com/Amerzish-25/Fire_Detection-A_Real-Time_Forest_Fire_and_Smoke_Detection_Website.git
+git clone https://github.com/TonangiVamsi/final_project.git
 cd Fire_Detection-A_Real-Time_Forest_Fire_and_Smoke_Detection_Website
 ```
 2. Install the required dependencies:
